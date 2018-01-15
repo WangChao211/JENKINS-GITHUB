@@ -9,6 +9,6 @@ public class Index {
 	@RequestMapping(value="index")
 	@ResponseBody
 	public String toIndex(){
-		return "hello,jenkins for github!!";
+		return "hello,jenkins for github!!hahahahaha";
 	}
 }
